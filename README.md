@@ -1,4 +1,4 @@
-# Portafolio personal de Karla
+# Portafolio personal de Karla Antonio
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4937359-859e-46c0-bba7-e28899c1640e" />
 
 Portafolio web personal de Karla Guadalupe Antonio Vázquez, estudiante de Ingeniería en Sistemas Presenta mi perfil, habilidades, experiencia, servicios y proyectos en una sola página, y está hecho con Bootstrap a partir de una plantilla gratuita.
